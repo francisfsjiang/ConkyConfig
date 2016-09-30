@@ -208,7 +208,7 @@ gauge = {
     caption_fg_colour=0xFFFFFF,    caption_fg_alpha=0.3,
 },
 {
-    name='fs_used_perc',           arg='/media/Data',                     max_value=100,
+    name='fs_used_perc',           arg='/media/never/本地磁盘',                     max_value=100,
     x=110,                          y=570,
     graph_radius=75,
     graph_thickness=20,
